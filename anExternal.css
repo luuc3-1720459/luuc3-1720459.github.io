@@ -1,0 +1,22 @@
+body {
+    background-color: #FD8FF6;
+}
+h1 {
+    color: rgb(#000);
+}
+p {
+    color: #2219CD;
+}
+
+
+.container {
+    position: absolute; 
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
